@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleLineApp", "ConsoleLineApp\ConsoleLineApp.csproj", "{015360B5-5A1D-441C-BC4D-4EA898CE5D4A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChatDisplayer", "ChatDisplayer\ChatDisplayer.csproj", "{F670D8FB-89B5-41BB-BB5D-B2290C53E979}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{015360B5-5A1D-441C-BC4D-4EA898CE5D4A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{015360B5-5A1D-441C-BC4D-4EA898CE5D4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{015360B5-5A1D-441C-BC4D-4EA898CE5D4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{015360B5-5A1D-441C-BC4D-4EA898CE5D4A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F670D8FB-89B5-41BB-BB5D-B2290C53E979}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F670D8FB-89B5-41BB-BB5D-B2290C53E979}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F670D8FB-89B5-41BB-BB5D-B2290C53E979}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F670D8FB-89B5-41BB-BB5D-B2290C53E979}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,8 @@
+D:\ChutipongRoobklom\HobbyProject\ConsoleLineApp\ChatDisplayer\bin\Debug\ChatDisplayer.exe.config
+D:\ChutipongRoobklom\HobbyProject\ConsoleLineApp\ChatDisplayer\bin\Debug\ChatDisplayer.exe
+D:\ChutipongRoobklom\HobbyProject\ConsoleLineApp\ChatDisplayer\bin\Debug\ChatDisplayer.pdb
+D:\ChutipongRoobklom\HobbyProject\ConsoleLineApp\ChatDisplayer\bin\Debug\RabbitMQ.Client.dll
+D:\ChutipongRoobklom\HobbyProject\ConsoleLineApp\ChatDisplayer\bin\Debug\RabbitMQ.Client.xml
+D:\ChutipongRoobklom\HobbyProject\ConsoleLineApp\ChatDisplayer\obj\Debug\ChatDisplayer.csprojResolveAssemblyReference.cache
+D:\ChutipongRoobklom\HobbyProject\ConsoleLineApp\ChatDisplayer\obj\Debug\ChatDisplayer.exe
+D:\ChutipongRoobklom\HobbyProject\ConsoleLineApp\ChatDisplayer\obj\Debug\ChatDisplayer.pdb
